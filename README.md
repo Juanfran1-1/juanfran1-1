@@ -140,13 +140,13 @@ Desarrollando nuevas soluciones para clientes.
 # 📈 GitHub
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Juanfran1-1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanfran1-1&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juanfran1-1&theme=github-dark-blue&hide_border=true"/>
-
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Juanfran1-1&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
